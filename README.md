@@ -2,7 +2,7 @@
 
 Custom Lineage II HF server source with Community Board auctions, ranking, and dress/undress system.
 
-<img src="https://github.com/worldespada-cloud/trunk/blob/main/images/Shot00003.png" width="50%" height="300"/>
+<img src="https://github.com/worldespada-cloud/EspadaWorld/blob/main/Shot00003.png" width="50%" height="300"/>
 
 ---
 
