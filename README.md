@@ -66,10 +66,4 @@ Before building or running the project, make sure your environment includes:
 
 ---
 
-## Setup
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/worldespada-cloud/trunk.git
-cd trunk
