@@ -1,5 +1,5 @@
 # EspadaWorld – Lineage II High Five Server
-<img src="https://github.com/worldespada-cloud/trunk/blob/main/dist/gameserver/images/banner.png" width="100%"/>
+<img src="https://github.com/worldespada-cloud/EspadaWorld/blob/main/banner.png" width="100%"/>
 EspadaWorld is a custom **Lineage II High Five** server project built on a customized L2J-style core, designed for private server development, gameplay customization, and production deployment.
 
 The repository includes the core Java sources, datapack resources, server distribution files, protection-related modules, and web/community customizations used by the project.
